@@ -43,6 +43,16 @@
       In Verilog, write the code to process the input using shift registers and multiply with coefficients.
   5)Simulate: Test the filter using a testbench (Verilog) or input signals (MATLAB) to observe the response.
 
+# WEBSIITES USED :
+WEBSITES :
+https://www.elprocus.com/fir-filter-for-digital-signal-processing/
+https://web.ece.ucsb.edu/~yoga/courses/DSP/P11_FIR_Design_Examples.pdf
+
+YOUTUBE VIDEOS :
+https://youtu.be/7f50sQYjNRA?si=-SiX07dhotZHuz4M
+https://youtu.be/_WoqwSBkhj0?si=Eao8n5vFRjgEyQyr
+https://youtu.be/Jf9NvCU6siU?si=OBRFhs_-goiIEXu0
+
 # OUTPUT:
 
 
