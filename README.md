@@ -33,7 +33,15 @@
   4)Filter Coefficients:
     The coefficients ℎ[𝑘] ,h[k] define the characteristics of the FIR filter. These coefficients are typically designed based on the filter's desired behavior, such as low-pass, high-pass ,band-     pass, etc.
     For example, for a low-pass filter, the coefficients will attenuate high-frequency components of the signal, passing only low-frequency components.
+    
 # GENERAL EQUATION OF FIR FILTER:
+![Image](https://github.com/user-attachments/assets/e5310942-b7a7-46fc-8bc8-c227503995d6)
+ 
+Where:
+ y[n] is the output signal.
+ x[n] is the input signal.
+ h[k] are the filter coefficients (taps).
+ M is the number of taps (order + 1).
 
 
 # STEPS TO MAKE A DIGITAL FINITE IMPULSE RESPONSE FILTER:
