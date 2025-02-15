@@ -54,6 +54,7 @@ https://youtu.be/_WoqwSBkhj0?si=Eao8n5vFRjgEyQyr
 https://youtu.be/Jf9NvCU6siU?si=OBRFhs_-goiIEXu0
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/e0fb5f2e-ddcd-424b-8306-d4c8c7d92d03)
 
 
 # APPLICATION :
