@@ -31,8 +31,10 @@
     This contrasts with IIR (Infinite Impulse Response) filters, which involve feedback and can have an infinite impulse response.
 
   4)Filter Coefficients:
-    The coefficients ℎ[𝑘] ,h[k] define the characteristics of the FIR filter. These coefficients are typically designed based on the filter's desired behavior, such as low-pass, high-pass, band-     pass, etc.
+    The coefficients ℎ[𝑘] ,h[k] define the characteristics of the FIR filter. These coefficients are typically designed based on the filter's desired behavior, such as low-pass, high-pass ,band-     pass, etc.
     For example, for a low-pass filter, the coefficients will attenuate high-frequency components of the signal, passing only low-frequency components.
+# GENERAL EQUATION OF FIR FILTER:
+
 
 # STEPS TO MAKE A DIGITAL FINITE IMPULSE RESPONSE FILTER:
   1) Define Specifications: Decide on the filter type (low-pass, high-pass, etc.), sampling frequency, cutoff frequency, and filter order.
